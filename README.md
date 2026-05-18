@@ -3,7 +3,7 @@
 <h2>Descrição do Projeto</h2>
 Este código tem como funcionalidade mostrar o código hexadecimal das 10 cores (se houver 10 cores) mais presentes na imagem.
 
-"A parte de interface e seleção de um arquivo do computador é feita utilizando tkinter, e a obtenção do valor RGB de cada pixel da imagem é feita com matplotlib. Por último, utilizo a API [the color api](https://www.thecolorapi.com) para converter RGB em hexadecimal.
+"A parte de interface e seleção de um arquivo do computador é feita utilizando tkinter, e a obtenção do valor RGB de cada pixel da imagem é feita com matplotlib. Por último, utilizo a API [the color API](https://www.thecolorapi.com) para converter RGB em hexadecimal.
 
 Passo a passo:
   
@@ -18,3 +18,5 @@ Passo a passo:
 * Tkinter
 
 * Pil
+  
+* [The Color API](https://www.thecolorapi.com)
